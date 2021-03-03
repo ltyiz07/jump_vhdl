@@ -1,0 +1,16 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "FPGA_CLK" LOC = T9;
+NET "LCD_EN" LOC = J1;
+NET "LCD_D[0]" LOC = E15;
+NET "LCD_D[1]" LOC = E16;
+NET "LCD_D[2]" LOC = F12;
+NET "LCD_D[3]" LOC = F13;
+NET "LCD_D[4]" LOC = F14;
+NET "LCD_D[5]" LOC = F15;
+NET "LCD_D[6]" LOC = G12;
+NET "LCD_D[7]" LOC = G13;
+NET "LCD_A[0]" LOC = J3;
+NET "LCD_A[1]" LOC = J2;
+NET "FPGA_RSTB" LOC = F4;

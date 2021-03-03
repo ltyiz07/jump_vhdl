@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/fun/line_Tb02/line_Tb02_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="line_tb02" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="26" />
+   <wvobject fp_name="/line_tb02/rstb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rstb</obj_property>
+      <obj_property name="ObjectShortName">rstb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/clk_50m" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_50m</obj_property>
+      <obj_property name="ObjectShortName">clk_50m</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/sen_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sen_out[6:0]</obj_property>
+      <obj_property name="ObjectShortName">sen_out[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/sen_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sen_in[6:0]</obj_property>
+      <obj_property name="ObjectShortName">sen_in[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/mtl_speed" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mtl_speed[1:0]</obj_property>
+      <obj_property name="ObjectShortName">mtl_speed[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/mtr_speed" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mtr_speed[1:0]</obj_property>
+      <obj_property name="ObjectShortName">mtr_speed[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/in_sen" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">in_sen[6:0]</obj_property>
+      <obj_property name="ObjectShortName">in_sen[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/mtl" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mtl[3:0]</obj_property>
+      <obj_property name="ObjectShortName">mtl[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/mtr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mtr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">mtr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/rf_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rf_data[2:0]</obj_property>
+      <obj_property name="ObjectShortName">rf_data[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/buzzer" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">buzzer</obj_property>
+      <obj_property name="ObjectShortName">buzzer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/seg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/sclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sclk</obj_property>
+      <obj_property name="ObjectShortName">sclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/speed_l" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">speed_l</obj_property>
+      <obj_property name="ObjectShortName">speed_l</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/speed_r" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">speed_r</obj_property>
+      <obj_property name="ObjectShortName">speed_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/motor_lcnt" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">motor_lcnt</obj_property>
+      <obj_property name="ObjectShortName">motor_lcnt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/phase_lclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phase_lclk</obj_property>
+      <obj_property name="ObjectShortName">phase_lclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/motor_rcnt" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">motor_rcnt</obj_property>
+      <obj_property name="ObjectShortName">motor_rcnt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/phase_rclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">phase_rclk</obj_property>
+      <obj_property name="ObjectShortName">phase_rclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/sc_led" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sc_led</obj_property>
+      <obj_property name="ObjectShortName">sc_led</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/sr_led" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sr_led</obj_property>
+      <obj_property name="ObjectShortName">sr_led</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/sl_led" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sl_led</obj_property>
+      <obj_property name="ObjectShortName">sl_led</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/phase_lcnt" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">phase_lcnt[1:0]</obj_property>
+      <obj_property name="ObjectShortName">phase_lcnt[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/phase_lout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">phase_lout[3:0]</obj_property>
+      <obj_property name="ObjectShortName">phase_lout[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/phase_rcnt" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">phase_rcnt[1:0]</obj_property>
+      <obj_property name="ObjectShortName">phase_rcnt[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/line_tb02/phase_rout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">phase_rout[3:0]</obj_property>
+      <obj_property name="ObjectShortName">phase_rout[3:0]</obj_property>
+   </wvobject>
+</wave_config>
